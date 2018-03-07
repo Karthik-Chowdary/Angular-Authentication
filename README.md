@@ -1,5 +1,8 @@
 # AngularApp
 
+![alt text](https://github.com/Karthik-Chowdary/Angular-Authentication/blob/master/Screen%20Shot%202018-03-06%20at%209.54.50%20PM.png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2.
 
 ## Development server
